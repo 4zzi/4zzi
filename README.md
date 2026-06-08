@@ -1,7 +1,8 @@
 ## Hi there
-Name: azzi (4zzi)
 
-Age: 16 yrs old
+- Name: azzi (4zzi)
+
+- Age: 16 yrs old
 
 # Here are some ideas to get you started:
 
