@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there
+Name: azzi (4zzi)
 
-<!--
-**4zzi/4zzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Age: 16 yrs old
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
